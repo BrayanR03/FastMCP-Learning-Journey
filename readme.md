@@ -13,7 +13,7 @@
 |-----------|------|--------|--------------|
 | 01 | Introducción a MCP y FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-1-mcp-y-fastmcp-conceptos-fundamentales) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7390063997233885184/) |
 | 02 |  Primer Servidor MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/primer-servidor-mcp-con-fastmcp-fastmcp-learning-journey) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391245257826267137/) |
-
+| 03 |  Tools - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-3-tools-en-mcp-con-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391982384734445568/) |
 ---
 
 ## 📅 Línea de Tiempo de Aprendizaje
@@ -24,6 +24,7 @@
 |--------|-----------|
 | 2025-10-28 | 🧱 Introducción MCP y FastMCP |
 | 2025-11-03 | 🧱 Primer Servidor MCP en FastMCP |
+| 2025-11-05 | 🧱 Tools - MCP en FastMCP |
 
 
 ---
