@@ -15,7 +15,7 @@
 | 02 |  Primer Servidor MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/primer-servidor-mcp-con-fastmcp-fastmcp-learning-journey) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391245257826267137/) |
 | 03 |  Tools - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-3-tools-en-mcp-con-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391982384734445568/) |
 | 04 |  Resources - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-4-resources-en-mcp-model-context-protocol) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7392343389897400320/) |
-
+| 05 |  Prompts - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-05-prompts-en-mcp-model-context-protocol) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7392701205203959808/) |
 
 ---
 
@@ -29,6 +29,7 @@
 | 2025-11-03 | 🧱 Primer Servidor MCP en FastMCP |
 | 2025-11-05 | 🧱 Tools - MCP en FastMCP |
 | 2025-11-06 | 🧱 Resources - MCP en FastMCP |
+| 2025-11-07 | 🧱 Prompts - MCP en FastMCP |
 
 
 ---
