@@ -16,6 +16,7 @@
 | 03 |  Tools - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-3-tools-en-mcp-con-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391982384734445568/) |
 | 04 |  Resources - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-4-resources-en-mcp-model-context-protocol) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7392343389897400320/) |
 | 05 |  Prompts - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-05-prompts-en-mcp-model-context-protocol) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7392701205203959808/) |
+| 06 |  Custom Routes - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-06-custom-routes-en-mcp-con-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7393780179694899201/) |
 
 ---
 
@@ -30,6 +31,7 @@
 | 2025-11-05 | 🧱 Tools - MCP en FastMCP |
 | 2025-11-06 | 🧱 Resources - MCP en FastMCP |
 | 2025-11-07 | 🧱 Prompts - MCP en FastMCP |
+| 2025-11-10 | 🧱 Custom Routes - MCP en FastMCP |
 
 
 ---
