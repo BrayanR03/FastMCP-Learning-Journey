@@ -18,6 +18,7 @@
 | 05 |  Prompts - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-05-prompts-en-mcp-model-context-protocol) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7392701205203959808/) |
 | 06 |  Custom Routes - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-06-custom-routes-en-mcp-con-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7393780179694899201/) |
 | 07 |  Intregration FastAPI - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-07-integracion-fastmcp-en-fastapi) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7394866559468392448/) |
+| 08 |  Composing Servers - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-08-composing-servers-en-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7395221503992233986/) |
 
 
 ---
@@ -35,6 +36,7 @@
 | 2025-11-07 | 🧱 Prompts - MCP en FastMCP |
 | 2025-11-10 | 🧱 Custom Routes - MCP en FastMCP |
 | 2025-11-13 | 🧱 Integration FastAPI - MCP en FastMCP |
+| 2025-11-14 | 🧱 Composing Servers - MCP en FastMCP |
 
 
 ---
