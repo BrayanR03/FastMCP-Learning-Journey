@@ -57,7 +57,7 @@ Qué hace internamente
 
 * Puede montar múltiples servidores a la vez (cada uno con su propio contexto).
 
-Para más detalle verificar el video: [Explicacion Integracion FastAPI](https://www.youtube.com/watch?v=Gr7ANpbG8Mo) y el archivo: [08_composing_servers_mcp_fastmcp.py](https://github.com/BrayanR03/FastMCP-Learning-Journey/blob/main/CODE/08_composing_servers_mcp_fastmcp.py)
+Para más detalle verificar el video: [Explicacion Composing Servers](https://www.youtube.com/watch?v=Gr7ANpbG8Mo) y el archivo: [08_composing_servers_mcp_fastmcp.py](https://github.com/BrayanR03/FastMCP-Learning-Journey/blob/main/CODE/08_composing_servers_mcp_fastmcp.py)
 
 
 ---
