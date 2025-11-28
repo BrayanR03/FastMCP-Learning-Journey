@@ -20,6 +20,7 @@
 | 07 |  Intregration FastAPI - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-07-integracion-fastmcp-en-fastapi) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7394866559468392448/) |
 | 08 |  Composing Servers - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-08-composing-servers-en-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7395221503992233986/) |
 | 09 |  Servers Proxys - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-09-servers-proxys-en-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7398851269773246464/) |
+| 10 |  Integration APIs - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-10-integraci%C3%B3n-de-apis-en-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7400320311155658752/) |
 
 ---
 
@@ -38,6 +39,7 @@
 | 2025-11-13 | 🧱 Integration FastAPI - MCP en FastMCP |
 | 2025-11-14 | 🧱 Composing Servers - MCP en FastMCP |
 | 2025-11-24 | 🧱 Server Proxys - MCP en FastMCP |
+| 2025-11-28 | 🧱 Integration APIs - MCP en FastMCP |
 
 
 ---
