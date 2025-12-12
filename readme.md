@@ -22,6 +22,7 @@
 | 09 |  Servers Proxys - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-09-servers-proxys-en-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7398851269773246464/) |
 | 10 |  Integration APIs - MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-10-integraci%C3%B3n-de-apis-en-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7400320311155658752/) |
 | 11 |  Arquitectura MCP en FastMCP | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-11-arquitectura-mcp-en-fastmcp) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7404664093669867520/) |
+| 12 |  Despliegue Servidor MCP en FastMCP en la nube | ✅ Completado | [Leer en Wix](https://bryanneciosup626.wixsite.com/brayandataanalitics/post/m%C3%B3dulo-12-despliegue-de-un-servidor-mcp-en-la-nube) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7405057052487651328/) |
 
 ---
 
@@ -42,6 +43,7 @@
 | 2025-11-24 | 🧱 Server Proxys - MCP en FastMCP |
 | 2025-11-28 | 🧱 Integration APIs - MCP en FastMCP |
 | 2025-12-10 | 🧱 Arquitecura MCP en FastMCP |
+| 2025-12-11 | 🧱 Despliegue Servidor MCP en FastMCP en la nube |
 
 
 ---
